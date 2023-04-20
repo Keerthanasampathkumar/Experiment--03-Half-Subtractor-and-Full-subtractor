@@ -89,8 +89,7 @@ RegisterNumber: 212222230066
 ### HALF SUBTRACTOR
 ![f 2](https://user-images.githubusercontent.com/119477890/233267490-5bf5d426-25d1-478c-bbef-73ef536c7d5b.png)
 ### FULL SUBTRACTOR
-![h 2](https://user-images.githubusercontent.com/119477890/233267517-0785addb-a1bf-426f-bea6-![t 2](https://user-images.githubusercontent.com/119477890/233270394-c9ec6ceb-c66f-4d85-861d-7b678bbc8339.png)
-dc279a972690.png)
+![h 2](https://user-images.githubusercontent.com/119477890/233267517-0785addb-a1bf-426f-bea6-dc279a972690.png)
 
 ### Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
