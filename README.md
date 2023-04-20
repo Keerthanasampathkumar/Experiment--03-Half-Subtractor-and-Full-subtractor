@@ -75,22 +75,21 @@ RegisterNumber: 212222230066
 ### Output:
 ### Truthtable
 ### HALF SUBTRACTOR
+![t 1](https://user-images.githubusercontent.com/119477890/233269044-4f1565eb-a713-43dc-bf15-bdd2ffb0c892.png)
+### FULL SUBTRACTOR
+
+### RTL realization
+### HALF SUBTRACTOR
 ![f 1](https://user-images.githubusercontent.com/119477890/233267095-323218e2-0133-4ef5-812b-f3f65ff5d886.png)
 
 ### FULL SUBTRACTOR
 ![h 1](https://user-images.githubusercontent.com/119477890/233267232-598687d7-0ecc-4ef4-a713-f81c039d9ec6.png)
 
-### RTL realization
+### Timing diagram 
 ### HALF SUBTRACTOR
 ![f 2](https://user-images.githubusercontent.com/119477890/233267490-5bf5d426-25d1-478c-bbef-73ef536c7d5b.png)
 ### FULL SUBTRACTOR
 ![h 2](https://user-images.githubusercontent.com/119477890/233267517-0785addb-a1bf-426f-bea6-dc279a972690.png)
-
-### Timing diagram 
-### HALF SUBTRACTOR
-![4 3](https://user-images.githubusercontent.com/119477890/231807688-60739961-8718-4c35-a08d-c68b55f022cb.png)
-### FULL SUBTRACTOR
-![4 4](https://user-images.githubusercontent.com/119477890/231807730-2bb0b392-473a-4a84-b286-2706949aa941.png)
 
 ### Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
