@@ -31,7 +31,7 @@ Write the detailed procedure here
 
 ### Program:
 ### Half subtractor
-module halfsubtractor(a,b,difference,borrow);
+module Ex04(a,b,difference,borrow);
 
 inputs a,b;
 
@@ -47,7 +47,7 @@ and(borrow,x,b);
 
 endmodule
 ### Full Subtractor
-module fullsubtractor(A,B,C,Difference,Borrow);
+module Ex4(A,B,C,Difference,Borrow);
 
 input A,B,C;
 
@@ -75,15 +75,16 @@ RegisterNumber: 212222230066
 ### Output:
 ### Truthtable
 ### HALF SUBTRACTOR
-![r 1](https://user-images.githubusercontent.com/119477890/231806516-945bba4b-e26f-47df-876c-395281307fd6.png)
+![f 1](https://user-images.githubusercontent.com/119477890/233267095-323218e2-0133-4ef5-812b-f3f65ff5d886.png)
+
 ### FULL SUBTRACTOR
-![r 2](https://user-images.githubusercontent.com/119477890/231806529-04c7af1b-0a17-4d3e-95fc-37140968a554.png)
+![h 1](https://user-images.githubusercontent.com/119477890/233267232-598687d7-0ecc-4ef4-a713-f81c039d9ec6.png)
 
 ### RTL realization
 ### HALF SUBTRACTOR
-![4 1](https://user-images.githubusercontent.com/119477890/231807534-aa0db725-6af5-4326-a014-84faaaff6d00.png)
+![f 2](https://user-images.githubusercontent.com/119477890/233267490-5bf5d426-25d1-478c-bbef-73ef536c7d5b.png)
 ### FULL SUBTRACTOR
-![4 2](https://user-images.githubusercontent.com/119477890/231807631-3c7cc69b-a57e-4d9e-bba6-c0f2f70531a1.png)
+![h 2](https://user-images.githubusercontent.com/119477890/233267517-0785addb-a1bf-426f-bea6-dc279a972690.png)
 
 ### Timing diagram 
 ### HALF SUBTRACTOR
